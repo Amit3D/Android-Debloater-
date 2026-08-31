@@ -7,3 +7,6 @@
 3.)usb debug and developer mode enable first
 
 4.)run in python 
+
+
+Official SAMSUNG USB drivers added 
