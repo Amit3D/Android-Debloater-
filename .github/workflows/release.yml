@@ -12,6 +12,6 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: path/to/your/file.exe  # Yahan apni file ka path aur naam dein
+          files: C:\Users\Amits\Desktop\Android-Debloater-\platform-tools\New Text Document.txt  # Yahan apni file ka path aur naam dein
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
